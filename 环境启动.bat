@@ -1,0 +1,3 @@
+activate kaggle
+
+jupyter notebook
